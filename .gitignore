@@ -1,0 +1,12 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Never commit real creds/notes accidentally
+*.secrets
+notes-private/
+*.key
+known_hosts
