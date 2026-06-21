@@ -5,9 +5,9 @@ Personal methodology notes from working through [OverTheWire](https://overthewir
 ## Purpose
 
 This repo is **not** a list of answers. Passwords and flags are intentionally omitted in
-every write-up — each level simply notes that the password was obtained. The goal here is
-to document *process*: which tools were used, why, and how the reasoning unfolded level to
-level. That's what's actually useful to show employers, mentors, or your future self.
+every write-up, each level simply notes that the password was obtained. The goal here is
+to document the *process*: which tools were used, why, and how the reasoning unfolded level to
+level.
 
 ## Ethics Note
 
@@ -16,12 +16,12 @@ walkthroughs, since that spoils the challenge for others. In line with that:
 
 - No passwords or flags appear anywhere in this repo.
 - Write-ups explain *concepts* (permissions, encoding, process inspection, etc.) rather than
-  handing over copy-paste solutions.
+  handing over copy-paste solutions...
 - Where a command would reveal a password as part of its normal output, the output is shown
-  with the password redacted or simply described.
+  with the password redacted...
 
 If you're working through Bandit yourself, I'd encourage you to use these as a check on your
-own thinking after you've already tried the level — not as a shortcut.
+own thinking after you've already tried the level, not as a shortcut T_T
 
 ## Structure
 
@@ -43,15 +43,15 @@ Every write-up follows the same template:
 
 - **Objective** — what the level is asking you to do
 - **Commands Used** — the tools involved
-- **The Logic** — short explanation of the vulnerability/technique/reasoning
+- **The Logic** — short explanation of the technique/reasoning
 - **The Command** — the actual command(s) run, with sensitive output redacted
 
-## Progress
+## Progress (for now)
 
 - [x] Bandit: level0 → level16
 
 ## Disclaimer
 
 These notes reflect my own work solving each level. They're shared for learning purposes only.
-Please don't use this repo to skip the productive struggle of OverTheWire — that struggle is
+Please don't use this repo to skip the productive struggle of OverTheWire, that struggle is
 the entire point.
